@@ -36,7 +36,7 @@ button {
   top: 19px;
   left: 18px;
   font-size: 0px;
-  background: url(./assets/images/a7b4b9e8-de9f-4409-8fb2-51fcb88acbf7.png)
+  background: url(../assets/images/a7b4b9e8-de9f-4409-8fb2-51fcb88acbf7.png)
     no-repeat center;
   background-size: cover;
   z-index: 2;
@@ -71,7 +71,7 @@ button {
   height: 24px;
   top: 9px;
   left: 9px;
-  background: url(./assets/images/69f8a01e-1f9d-4901-8d3a-2c3986b98ca1.png)
+  background: url(../assets/images/69f8a01e-1f9d-4901-8d3a-2c3986b98ca1.png)
     no-repeat center;
   background-size: cover;
   z-index: 33;
@@ -110,7 +110,7 @@ button {
   position: relative;
   width: 24px;
   height: 24px;
-  background: url(./assets/images/e094a054-1c3c-46a5-bfec-0f1f78dd6a5e.png)
+  background: url(../assets/images/e094a054-1c3c-46a5-bfec-0f1f78dd6a5e.png)
     no-repeat center;
   background-size: cover;
   z-index: 38;
@@ -145,7 +145,7 @@ button {
   position: relative;
   width: 24px;
   height: 24px;
-  background: url(./assets/images/00d4fcfc-3d2b-42b1-9f59-54b8f4b298bc.png)
+  background: url(../assets/images/00d4fcfc-3d2b-42b1-9f59-54b8f4b298bc.png)
     no-repeat center;
   background-size: cover;
   z-index: 41;
@@ -189,7 +189,7 @@ button {
   position: relative;
   width: 24px;
   height: 24px;
-  background: url(./assets/images/8e970f71-4b4d-4121-826c-03dc2423eee0.png)
+  background: url(../assets/images/8e970f71-4b4d-4121-826c-03dc2423eee0.png)
     no-repeat center;
   background-size: cover;
   z-index: 10;
@@ -222,7 +222,7 @@ button {
   height: 24px;
   top: 0;
   left: 0;
-  background: url(./assets/images/8814233a-916f-43df-9cd7-260aa6f43532.png)
+  background: url(../assets/images/8814233a-916f-43df-9cd7-260aa6f43532.png)
     no-repeat center;
   background-size: cover;
   z-index: 42;
@@ -270,7 +270,7 @@ button {
   position: relative;
   width: 24px;
   height: 24px;
-  background: url(./assets/images/ce918c03-2680-419b-9a3e-9142010af3b8.png)
+  background: url(../assets/images/ce918c03-2680-419b-9a3e-9142010af3b8.png)
     no-repeat center;
   background-size: cover;
   z-index: 43;
@@ -295,7 +295,7 @@ button {
   width: 252px;
   height: 42px;
   margin: 440px 0 0 11px;
-  background: url(./assets/images/7f713a40-02eb-4468-91f1-59c523947425.png)
+  background: url(../assets/images/7f713a40-02eb-4468-91f1-59c523947425.png)
     no-repeat center;
   background-size: cover;
   z-index: 24;
@@ -307,7 +307,7 @@ button {
   height: 20px;
   top: 11px;
   left: 29px;
-  background: url(./assets/images/d90912f7-8929-410b-afc0-8791242b029b.png)
+  background: url(../assets/images/d90912f7-8929-410b-afc0-8791242b029b.png)
     no-repeat center;
   background-size: cover;
   z-index: 26;
@@ -319,7 +319,7 @@ button {
   height: 20px;
   top: 11px;
   left: 159px;
-  background: url(./assets/images/3b7f2a6d-81bb-4f14-aaea-19480a6c54b8.png)
+  background: url(../assets/images/3b7f2a6d-81bb-4f14-aaea-19480a6c54b8.png)
     no-repeat center;
   background-size: cover;
   z-index: 29;
@@ -444,7 +444,7 @@ button {
   width: 24px;
   height: 24px;
   margin: 9px 0 0 9px;
-  background: url(./assets/images/d1ebda3a-423b-4e16-8462-61508e9b3b8a.png)
+  background: url(../assets/images/d1ebda3a-423b-4e16-8462-61508e9b3b8a.png)
     no-repeat center;
   background-size: cover;
   z-index: 16;
@@ -456,7 +456,7 @@ button {
   height: 28px;
   top: 17px;
   left: 8px;
-  background: url(./assets/images/31f8450d-d6ce-42e2-b998-49952353d1e0.png)
+  background: url(../assets/images/31f8450d-d6ce-42e2-b998-49952353d1e0.png)
     no-repeat center;
   background-size: cover;
   z-index: 22;
@@ -621,7 +621,7 @@ button {
   width: 424px;
   height: 437px;
   margin: 0 0 0 20px;
-  background: url(./assets/images/937e543d-f3ac-41e1-914f-d01c586feaec.png)
+  background: url(../assets/images/937e543d-f3ac-41e1-914f-d01c586feaec.png)
     no-repeat center;
   background-size: cover;
   z-index: 57;
@@ -631,7 +631,7 @@ button {
   width: 32px;
   height: 32px;
   margin: 8px 0 0 0;
-  background: url(./assets/images/4ff8c235-173b-4f6e-b8f9-4b3ce05be599.png)
+  background: url(../assets/images/4ff8c235-173b-4f6e-b8f9-4b3ce05be599.png)
     no-repeat center;
   background-size: cover;
   z-index: 56;

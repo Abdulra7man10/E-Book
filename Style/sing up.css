@@ -81,7 +81,7 @@ button {
   width: 190px;
   height: 191px;
   margin: 44px 0 0 590px;
-  background: url(./assets/images/f4af2202-148b-413d-bf55-62c4bb3c7192.png)
+  background: url(../assets/images/f4af2202-148b-413d-bf55-62c4bb3c7192.png)
     no-repeat center;
   background-size: cover;
   z-index: 32;
@@ -454,7 +454,7 @@ button {
   position: relative;
   width: 35px;
   height: 35px;
-  background: url(./assets/images/b0c37317c0a338d8c53df38d1d1753a4abd1af5a.png)
+  background: url(../assets/images/b0c37317c0a338d8c53df38d1d1753a4abd1af5a.png)
     no-repeat center;
   background-size: contain;
   z-index: 21;

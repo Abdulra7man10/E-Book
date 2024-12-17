@@ -51,7 +51,7 @@ button {
   height: 318px;
   margin: 40px 0 0 68px;
   background: rgba(217, 217, 217, 0.2)
-    url(./assets/images/11e29d2c087006cd98fa69f7a6dcc0f0129eceff.png) no-repeat
+    url(.../assets/images/11e29d2c087006cd98fa69f7a6dcc0f0129eceff.png) no-repeat
     center;
   background-size: cover;
   z-index: 1;
@@ -81,7 +81,7 @@ button {
   height: 20px;
   top: 107px;
   left: 426px;
-  background: url(./assets/images/8cd4abda-1151-4aaa-8abc-b608a3277a14.png)
+  background: url(.../assets/images/8cd4abda-1151-4aaa-8abc-b608a3277a14.png)
     no-repeat center;
   background-size: cover;
   z-index: 3;
@@ -209,7 +209,7 @@ button {
   height: 50px;
   top: 0;
   left: 0;
-  background: url(./assets/images/d065bd32-176c-4dae-836f-b1f4973de264.png)
+  background: url(.../assets/images/d065bd32-176c-4dae-836f-b1f4973de264.png)
     no-repeat center;
   background-size: cover;
   z-index: 15;
@@ -239,7 +239,7 @@ button {
   height: 20px;
   top: 28px;
   left: 68px;
-  background: url(./assets/images/0f18657e-0280-420b-ab97-175fbf02a552.png)
+  background: url(.../assets/images/0f18657e-0280-420b-ab97-175fbf02a552.png)
     no-repeat center;
   background-size: cover;
   z-index: 13;
@@ -311,7 +311,7 @@ button {
   height: 50px;
   top: 0;
   left: 0;
-  background: url(./assets/images/f7d89a70-bf52-47c3-b7c3-a9d4ab93029b.png)
+  background: url(.../assets/images/f7d89a70-bf52-47c3-b7c3-a9d4ab93029b.png)
     no-repeat center;
   background-size: cover;
   z-index: 23;
@@ -341,7 +341,7 @@ button {
   height: 20px;
   top: 28px;
   left: 68px;
-  background: url(./assets/images/3d5a9d30-7d85-4a79-9fb4-e63f7cf01fa2.png)
+  background: url(.../assets/images/3d5a9d30-7d85-4a79-9fb4-e63f7cf01fa2.png)
     no-repeat center;
   background-size: cover;
   z-index: 21;
@@ -413,7 +413,7 @@ button {
   height: 50px;
   top: 0;
   left: 0;
-  background: url(./assets/images/3b033b93-7d25-4352-adf9-eef5153b934b.png)
+  background: url(.../assets/images/3b033b93-7d25-4352-adf9-eef5153b934b.png)
     no-repeat center;
   background-size: cover;
   z-index: 31;
@@ -443,7 +443,7 @@ button {
   height: 20px;
   top: 28px;
   left: 68px;
-  background: url(./assets/images/4ca36566-689d-4348-a52c-8b39451716bd.png)
+  background: url(.../assets/images/4ca36566-689d-4348-a52c-8b39451716bd.png)
     no-repeat center;
   background-size: cover;
   z-index: 29;
@@ -521,7 +521,7 @@ button {
   height: 240px;
   top: 0;
   left: 63px;
-  background: url(./assets/images/75a3400e91a5456d91aa256c86bcc97caa97ea7e.png)
+  background: url(.../assets/images/75a3400e91a5456d91aa256c86bcc97caa97ea7e.png)
     no-repeat center;
   background-size: cover;
   z-index: 38;
@@ -533,7 +533,7 @@ button {
   height: 240px;
   top: 0;
   left: 247px;
-  background: url(./assets/images/b4da0e8f31e224d83e8a3aa72df42e0605fed27c.png)
+  background: url(.../assets/images/b4da0e8f31e224d83e8a3aa72df42e0605fed27c.png)
     no-repeat center;
   background-size: cover;
   z-index: 41;
@@ -545,7 +545,7 @@ button {
   height: 240px;
   top: 0;
   left: 429px;
-  background: url(./assets/images/f09e7c116946032c6716a8deb59dd6b1731d9f68.png)
+  background: url(.../assets/images/f09e7c116946032c6716a8deb59dd6b1731d9f68.png)
     no-repeat center;
   background-size: cover;
   z-index: 44;
@@ -557,7 +557,7 @@ button {
   height: 240px;
   top: 0;
   left: 610px;
-  background: url(./assets/images/621263e862ed739c489d58dab8ad24cecd55e55b.png)
+  background: url(.../assets/images/621263e862ed739c489d58dab8ad24cecd55e55b.png)
     no-repeat center;
   background-size: cover;
   z-index: 47;
@@ -569,7 +569,7 @@ button {
   height: 240px;
   top: 0;
   left: 790px;
-  background: url(./assets/images/48a6eb2ee5ae267e7a9c5970886e264641ceb5e7.png)
+  background: url(.../assets/images/48a6eb2ee5ae267e7a9c5970886e264641ceb5e7.png)
     no-repeat center;
   background-size: cover;
   z-index: 50;
@@ -581,7 +581,7 @@ button {
   height: 240px;
   top: 0;
   left: 969px;
-  background: url(./assets/images/64407a56a3226cd52a30ea66fccf5ff634fcfe5a.png)
+  background: url(.../assets/images/64407a56a3226cd52a30ea66fccf5ff634fcfe5a.png)
     no-repeat center;
   background-size: cover;
   z-index: 53;
@@ -593,7 +593,7 @@ button {
   height: 240px;
   top: 0;
   left: 1150px;
-  background: url(./assets/images/38ce953e55ebc2cf5e8e72f349d43ef3041e4cdc.png)
+  background: url(.../assets/images/38ce953e55ebc2cf5e8e72f349d43ef3041e4cdc.png)
     no-repeat center;
   background-size: cover;
   z-index: 56;
@@ -605,7 +605,7 @@ button {
   height: 45px;
   top: 103px;
   left: 0;
-  background: url(./assets/images/7bf1b718-008a-4acc-8125-b68d0f230da1.png)
+  background: url(.../assets/images/7bf1b718-008a-4acc-8125-b68d0f230da1.png)
     no-repeat center;
   background-size: cover;
   z-index: 59;
@@ -616,7 +616,7 @@ button {
   height: 45px;
   top: 103px;
   left: 1332px;
-  background: url(./assets/images/99229ce9-56f5-4c35-bcb4-1dbfdfa48f38.png)
+  background: url(.../assets/images/99229ce9-56f5-4c35-bcb4-1dbfdfa48f38.png)
     no-repeat center;
   background-size: cover;
   z-index: 58;

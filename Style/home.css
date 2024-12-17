@@ -43,7 +43,7 @@ button {
   top: 0;
   left: 0;
   font-size: 0px;
-  background: url(./assets/images/809bfab3-d7f1-4e77-b7fd-5aa68ab21b22.png)
+  background: url(../assets/images/809bfab3-d7f1-4e77-b7fd-5aa68ab21b22.png)
     no-repeat center;
   background-size: cover;
   z-index: 2;
@@ -78,7 +78,7 @@ button {
   height: 24px;
   top: 9px;
   left: 9px;
-  background: url(./assets/images/ab744db8-4210-430e-94ca-18d6f78569a3.png)
+  background: url(../assets/images/ab744db8-4210-430e-94ca-18d6f78569a3.png)
     no-repeat center;
   background-size: cover;
   z-index: 33;
@@ -126,7 +126,7 @@ button {
   position: relative;
   width: 24px;
   height: 24px;
-  background: url(./assets/images/bf2e6ad2-c72b-4d43-ac89-e57d8f61ce03.png)
+  background: url(../assets/images/bf2e6ad2-c72b-4d43-ac89-e57d8f61ce03.png)
     no-repeat center;
   background-size: cover;
   z-index: 38;
@@ -161,7 +161,7 @@ button {
   position: relative;
   width: 24px;
   height: 24px;
-  background: url(./assets/images/1fa0bdf9-8345-428e-a814-38b9988693c5.png)
+  background: url(../assets/images/1fa0bdf9-8345-428e-a814-38b9988693c5.png)
     no-repeat center;
   background-size: cover;
   z-index: 41;
@@ -196,7 +196,7 @@ button {
   position: relative;
   width: 24px;
   height: 24px;
-  background: url(./assets/images/74add374-1c21-4ba1-9bea-0cb23c83a60b.png)
+  background: url(../assets/images/74add374-1c21-4ba1-9bea-0cb23c83a60b.png)
     no-repeat center;
   background-size: cover;
   z-index: 10;
@@ -229,7 +229,7 @@ button {
   height: 24px;
   top: 0;
   left: 0;
-  background: url(./assets/images/1029fa3b-3004-4a37-949e-f10ad9839945.png)
+  background: url(../assets/images/1029fa3b-3004-4a37-949e-f10ad9839945.png)
     no-repeat center;
   background-size: cover;
   z-index: 42;
@@ -277,7 +277,7 @@ button {
   position: relative;
   width: 24px;
   height: 24px;
-  background: url(./assets/images/1e0c8807-6bd9-4be1-a2eb-42cbb7c17c3b.png)
+  background: url(../assets/images/1e0c8807-6bd9-4be1-a2eb-42cbb7c17c3b.png)
     no-repeat center;
   background-size: cover;
   z-index: 43;
@@ -302,7 +302,7 @@ button {
   width: 252px;
   height: 42px;
   margin: 440px 0 0 11px;
-  background: url(./assets/images/25da969e-aff2-41e9-a760-0e24bd0cf8f1.png)
+  background: url(../assets/images/25da969e-aff2-41e9-a760-0e24bd0cf8f1.png)
     no-repeat center;
   background-size: cover;
   z-index: 24;
@@ -314,7 +314,7 @@ button {
   height: 20px;
   top: 11px;
   left: 29px;
-  background: url(./assets/images/c9cdf367-70bb-4aa5-8757-806597d95efb.png)
+  background: url(../assets/images/c9cdf367-70bb-4aa5-8757-806597d95efb.png)
     no-repeat center;
   background-size: cover;
   z-index: 26;
@@ -326,7 +326,7 @@ button {
   height: 20px;
   top: 11px;
   left: 159px;
-  background: url(./assets/images/67983ba4-5c55-4524-9cc2-d558e89ef285.png)
+  background: url(../assets/images/67983ba4-5c55-4524-9cc2-d558e89ef285.png)
     no-repeat center;
   background-size: cover;
   z-index: 29;
@@ -451,7 +451,7 @@ button {
   width: 24px;
   height: 24px;
   margin: 9px 0 0 9px;
-  background: url(./assets/images/b690ccaf-965f-4edd-bca3-3fd8e76b9c5b.png)
+  background: url(../assets/images/b690ccaf-965f-4edd-bca3-3fd8e76b9c5b.png)
     no-repeat center;
   background-size: cover;
   z-index: 16;
@@ -463,7 +463,7 @@ button {
   height: 28px;
   top: 17px;
   left: 8px;
-  background: url(./assets/images/b5cba7da-ab4b-4ef5-b2ce-edf6f9dea4de.png)
+  background: url(../assets/images/b5cba7da-ab4b-4ef5-b2ce-edf6f9dea4de.png)
     no-repeat center;
   background-size: cover;
   z-index: 22;
@@ -485,7 +485,7 @@ button {
   height: 256px;
   top: 9px;
   left: 862px;
-  background: url(./assets/images/11e29d2c087006cd98fa69f7a6dcc0f0129eceff.png)
+  background: url(../assets/images/11e29d2c087006cd98fa69f7a6dcc0f0129eceff.png)
     no-repeat center;
   background-size: cover;
   z-index: 46;
@@ -520,7 +520,7 @@ button {
   width: 124px;
   height: 20px;
   margin: 21px 0 0 13px;
-  background: url(./assets/images/b0978e41-c5c3-4f89-a951-5364afddabf7.png)
+  background: url(../assets/images/b0978e41-c5c3-4f89-a951-5364afddabf7.png)
     no-repeat center;
   background-size: cover;
   z-index: 52;
@@ -577,7 +577,7 @@ button {
   height: 10px;
   top: 332px;
   left: 693px;
-  background: url(./assets/images/cc979313-fce4-4ec9-9fac-04939e0c06f5.png)
+  background: url(../assets/images/cc979313-fce4-4ec9-9fac-04939e0c06f5.png)
     no-repeat center;
   background-size: cover;
   z-index: 53;
@@ -624,7 +624,7 @@ button {
   height: 240px;
   top: 408px;
   left: 384px;
-  background: url(./assets/images/75a3400e91a5456d91aa256c86bcc97caa97ea7e.png)
+  background: url(../assets/images/75a3400e91a5456d91aa256c86bcc97caa97ea7e.png)
     no-repeat center;
   background-size: cover;
   z-index: 56;
@@ -636,7 +636,7 @@ button {
   height: 240px;
   top: 0;
   left: 0;
-  background: url(./assets/images/75a3400e91a5456d91aa256c86bcc97caa97ea7e.png)
+  background: url(../assets/images/75a3400e91a5456d91aa256c86bcc97caa97ea7e.png)
     no-repeat center;
   background-size: cover;
   z-index: 75;
@@ -648,7 +648,7 @@ button {
   height: 240px;
   top: 408px;
   left: 568px;
-  background: url(./assets/images/b4da0e8f31e224d83e8a3aa72df42e0605fed27c.png)
+  background: url(../assets/images/b4da0e8f31e224d83e8a3aa72df42e0605fed27c.png)
     no-repeat center;
   background-size: cover;
   z-index: 59;
@@ -660,7 +660,7 @@ button {
   height: 240px;
   top: 0;
   left: 0;
-  background: url(./assets/images/b4da0e8f31e224d83e8a3aa72df42e0605fed27c.png)
+  background: url(../assets/images/b4da0e8f31e224d83e8a3aa72df42e0605fed27c.png)
     no-repeat center;
   background-size: cover;
   z-index: 78;
@@ -672,7 +672,7 @@ button {
   height: 240px;
   top: 408px;
   left: 751px;
-  background: url(./assets/images/f09e7c116946032c6716a8deb59dd6b1731d9f68.png)
+  background: url(../assets/images/f09e7c116946032c6716a8deb59dd6b1731d9f68.png)
     no-repeat center;
   background-size: cover;
   z-index: 62;
@@ -684,7 +684,7 @@ button {
   height: 240px;
   top: 0;
   left: 0;
-  background: url(./assets/images/f09e7c116946032c6716a8deb59dd6b1731d9f68.png)
+  background: url(../assets/images/f09e7c116946032c6716a8deb59dd6b1731d9f68.png)
     no-repeat center;
   background-size: cover;
   z-index: 81;
@@ -696,7 +696,7 @@ button {
   height: 240px;
   top: 408px;
   left: 933px;
-  background: url(./assets/images/621263e862ed739c489d58dab8ad24cecd55e55b.png)
+  background: url(../assets/images/621263e862ed739c489d58dab8ad24cecd55e55b.png)
     no-repeat center;
   background-size: cover;
   z-index: 65;
@@ -708,7 +708,7 @@ button {
   height: 240px;
   top: 0;
   left: 0;
-  background: url(./assets/images/621263e862ed739c489d58dab8ad24cecd55e55b.png)
+  background: url(../assets/images/621263e862ed739c489d58dab8ad24cecd55e55b.png)
     no-repeat center;
   background-size: cover;
   z-index: 84;
@@ -720,7 +720,7 @@ button {
   height: 240px;
   top: 408px;
   left: 1115px;
-  background: url(./assets/images/48a6eb2ee5ae267e7a9c5970886e264641ceb5e7.png)
+  background: url(../assets/images/48a6eb2ee5ae267e7a9c5970886e264641ceb5e7.png)
     no-repeat center;
   background-size: cover;
   z-index: 68;
@@ -732,7 +732,7 @@ button {
   height: 240px;
   top: 0;
   left: 0;
-  background: url(./assets/images/48a6eb2ee5ae267e7a9c5970886e264641ceb5e7.png)
+  background: url(../assets/images/48a6eb2ee5ae267e7a9c5970886e264641ceb5e7.png)
     no-repeat center;
   background-size: cover;
   z-index: 86;
@@ -744,7 +744,7 @@ button {
   height: 45px;
   top: 511px;
   left: 315px;
-  background: url(./assets/images/a0f40dea-d1d6-4a29-9940-38efd6ba157e.png)
+  background: url(../assets/images/a0f40dea-d1d6-4a29-9940-38efd6ba157e.png)
     no-repeat center;
   background-size: cover;
   z-index: 71;
@@ -755,7 +755,7 @@ button {
   height: 45px;
   top: 0;
   left: 0;
-  background: url(./assets/images/29045902-f500-4f60-8aec-fc94a66cc0ee.png)
+  background: url(../assets/images/29045902-f500-4f60-8aec-fc94a66cc0ee.png)
     no-repeat center;
   background-size: cover;
   z-index: 89;
@@ -766,7 +766,7 @@ button {
   height: 45px;
   top: 511px;
   left: 1309px;
-  background: url(./assets/images/49bde1a0-2e52-4bb1-bb08-79d07e121838.png)
+  background: url(../assets/images/49bde1a0-2e52-4bb1-bb08-79d07e121838.png)
     no-repeat center;
   background-size: cover;
   z-index: 70;
@@ -777,7 +777,7 @@ button {
   height: 45px;
   top: 0;
   left: 0;
-  background: url(./assets/images/a886d672-f5e5-4390-a039-15712abd4b5f.png)
+  background: url(../assets/images/a886d672-f5e5-4390-a039-15712abd4b5f.png)
     no-repeat center;
   background-size: cover;
   z-index: 88;
@@ -968,7 +968,7 @@ button {
   height: 240px;
   top: 776px;
   left: 384px;
-  background: url(./assets/images/75a3400e91a5456d91aa256c86bcc97caa97ea7e.png)
+  background: url(../assets/images/75a3400e91a5456d91aa256c86bcc97caa97ea7e.png)
     no-repeat center;
   background-size: cover;
   z-index: 93;
@@ -980,7 +980,7 @@ button {
   height: 240px;
   top: 776px;
   left: 568px;
-  background: url(./assets/images/b4da0e8f31e224d83e8a3aa72df42e0605fed27c.png)
+  background: url(../assets/images/b4da0e8f31e224d83e8a3aa72df42e0605fed27c.png)
     no-repeat center;
   background-size: cover;
   z-index: 96;
@@ -992,7 +992,7 @@ button {
   height: 240px;
   top: 776px;
   left: 751px;
-  background: url(./assets/images/f09e7c116946032c6716a8deb59dd6b1731d9f68.png)
+  background: url(../assets/images/f09e7c116946032c6716a8deb59dd6b1731d9f68.png)
     no-repeat center;
   background-size: cover;
   z-index: 99;
@@ -1004,7 +1004,7 @@ button {
   height: 240px;
   top: 776px;
   left: 933px;
-  background: url(./assets/images/621263e862ed739c489d58dab8ad24cecd55e55b.png)
+  background: url(../assets/images/621263e862ed739c489d58dab8ad24cecd55e55b.png)
     no-repeat center;
   background-size: cover;
   z-index: 102;
@@ -1016,7 +1016,7 @@ button {
   height: 240px;
   top: 776px;
   left: 1115px;
-  background: url(./assets/images/48a6eb2ee5ae267e7a9c5970886e264641ceb5e7.png)
+  background: url(../assets/images/48a6eb2ee5ae267e7a9c5970886e264641ceb5e7.png)
     no-repeat center;
   background-size: cover;
   z-index: 105;
@@ -1028,7 +1028,7 @@ button {
   height: 45px;
   top: 879px;
   left: 315px;
-  background: url(./assets/images/6666a766-2341-4bbc-840f-2796bb35f62e.png)
+  background: url(../assets/images/6666a766-2341-4bbc-840f-2796bb35f62e.png)
     no-repeat center;
   background-size: cover;
   z-index: 108;
@@ -1039,7 +1039,7 @@ button {
   height: 45px;
   top: 879px;
   left: 1309px;
-  background: url(./assets/images/b6fd1f78-4b24-42d7-84d3-3e18159ac2f9.png)
+  background: url(../assets/images/b6fd1f78-4b24-42d7-84d3-3e18159ac2f9.png)
     no-repeat center;
   background-size: cover;
   z-index: 107;
