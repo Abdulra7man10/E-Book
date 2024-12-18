@@ -32,8 +32,7 @@ a:hover {
 }
 
 
-
-
+/* header */
 header {
     background-color: #003366;
     padding: 10px 0;
@@ -60,6 +59,7 @@ nav a.active {
     text-decoration: underline;
 }
 
+/* home */
 .welcome-section {
     text-align: center;
     margin: 20px 0;
@@ -130,8 +130,7 @@ nav a.active {
 
 
 
-
-
+/* footer */
 footer {
     background-color: #003366;
     color: white;
@@ -152,7 +151,7 @@ footer a:hover {
 }
 
 
-
+/* profile */
 .profile-card {
     background-color: #ffffff;
     padding: 20px;
@@ -195,8 +194,7 @@ footer a:hover {
     background-color: #0056b3;
 }
 
-
-
+/* contact */
 section {
     margin-bottom: 30px;
     line-height: 1.6;
@@ -209,7 +207,7 @@ section h2 {
     margin-bottom: 20px;
 }
 
-
+/* about */
 .team-section {
     text-align: center;
 }
@@ -244,7 +242,7 @@ section h2 {
     transform: translateY(-5px);
 }
 
-
+/* products */
 ul {
     list-style-type: disc;
     margin-left: 20px;
@@ -318,6 +316,7 @@ ul {
 }
 
 
+/* login */
 .login-container {
     background-color: #ffffff;
     border-radius: 8px;
@@ -387,6 +386,7 @@ ul {
 }
 
 
+/* sign-up */
 .signup-container {
     background-color: #ffffff;
     border-radius: 8px;
@@ -457,7 +457,7 @@ ul {
 
 
 
-
+/* cart */
 .cart-section {
     margin-top: 30px;
 }
